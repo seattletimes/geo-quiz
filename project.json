@@ -1,0 +1,21 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "apps-stage.seattletimesdata.com",
+      "path": ""
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "2015/quizzes/geo-quiz"
+    }
+  },
+  "title": "",
+  "description": "",
+  "url": "http://projects.seattletimes.com/2015/quizzes/geo-quiz/",
+  "slug": "",
+  "tags": [ "quiz" ],
+  "image": "assets/social.jpg",
+  "sheets": ["1_yKqFHglKf7dyYshN2AEfW_SACQDCzecuUFbAgR4MKs"],
+  "production": false,
+  "embedded": true
+}
