@@ -6,12 +6,12 @@
     },
     "live": {
       "bucket": "projects.seattletimes.com",
-      "path": "2015/quizzes/geo-quiz"
+      "path": "2015/quizzes/2015/quizzes/geo-quiz"
     }
   },
   "title": "",
   "description": "",
-  "url": "http://projects.seattletimes.com/2015/quizzes/geo-quiz/",
+  "url": "http://projects.seattletimes.com/2015/quizzes/2015/quizzes/geo-quiz/",
   "slug": "",
   "tags": [ "quiz" ],
   "image": "assets/social.jpg",
