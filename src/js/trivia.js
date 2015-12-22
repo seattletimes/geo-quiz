@@ -1,3 +1,4 @@
+var track = require("./lib/tracking");
 var $ = require("jquery");
 var ich = require("icanhaz");
 var Share = require("share");
