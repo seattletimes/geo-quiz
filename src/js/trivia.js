@@ -40,6 +40,8 @@ var watchInput = function() {
 };
 
 $(".quiz-container").on("click", ".submit", function() {
+  track("interactive", "quiz", "submit-answer-" + id);
+
   // score answer
   var answerData = {};
   answerData.question = quizData[id].question;
