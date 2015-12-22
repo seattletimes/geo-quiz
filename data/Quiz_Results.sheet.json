@@ -1,36 +1,36 @@
 [
   {
-    "title": "Level One",
+    "title": "Mr. Magoo",
     "min": "0",
-    "max": "2",
-    "description": "Description goes here.",
+    "max": "10",
+    "description": "(couldn't find his way out of the house)",
     "image": "test.jpg",
     "photographer": "Photographer Name",
     "source": "Source Name"
   },
   {
-    "title": "Level Two",
+    "title": "Amelia Earhart",
     "min": "3",
     "max": "5",
-    "description": "Description goes here.",
+    "description": "(intrepid, but never found her way home)",
     "image": "test.jpg",
     "photographer": "Photographer Name",
     "source": "Source Name"
   },
   {
-    "title": "Level Three",
+    "title": "Marco Polo",
     "min": "6",
     "max": "8",
-    "description": "Description goes here.",
+    "description": "(traveled 15,000 miles over 24 years)",
     "image": "test.jpg",
     "photographer": "Photographer Name",
     "source": "Source Name"
   },
   {
-    "title": "Level Four",
+    "title": "Neil Armstrong ",
     "min": "9",
     "max": "12",
-    "description": "Description goes here.",
+    "description": "(Earth couldn’t contain him)",
     "image": "test.jpg",
     "photographer": "Photographer Name",
     "source": "Source Name"

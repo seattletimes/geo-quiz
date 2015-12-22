@@ -1,11 +1,12 @@
 <div class="inner">
   <div class="inset-image">
-    <img src="./assets/quiz/{{image}}">
+    {{#image}}<img src="./assets/quiz/{{image}}">{{/image}}
   </div>
 
   <div class="question-inner">
     <div class="question">
       <div class="index"></div>
+      <div class="category">{{category}}</div>
       {{question}}</span></div>
 
     {{#answers}}
