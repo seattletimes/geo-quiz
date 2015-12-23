@@ -194,7 +194,7 @@
   {
     "id": "25",
     "title": "25",
-    "question": "If a Zil drives by with a borzoi hanging its head out the window, and you’re in the nation where both the make of car and dog breed originated, you’re in:",
+    "question": "If a ZiL limousine drives by with a borzoi hanging its head out the window, and you’re in the nation where both the make of car and dog breed originated, you’re in:",
     "description": "",
     "image": "",
     "category": "Going to the dogs"
@@ -210,7 +210,7 @@
   {
     "id": "27",
     "title": "27",
-    "question": "If a Lagonda drives by with a corgi jumping up and down in hopes of hanging its head out the window, and you’re in the nation where both car and dog breed originated, you’d be in:",
+    "question": "If a Lagonda drives by with a corgi jumping up and down in vain hope of hanging its head out the window, and you’re in the nation where both car and dog breed originated, you’d be in:",
     "description": "The breed is also known as the Welsh corgi.",
     "image": "",
     "category": "Going to the dogs"
@@ -278,5 +278,77 @@
     "description": "",
     "image": "",
     "category": "As seen in NWTraveler"
+  },
+  {
+    "id": "36",
+    "title": "36",
+    "question": "Name the festival in the photo. ",
+    "description": "",
+    "image": "quiz_1.jpg",
+    "category": "Photo quiz"
+  },
+  {
+    "id": "37",
+    "title": "37",
+    "question": "Name the festival in the photo. ",
+    "description": "",
+    "image": "quiz_2.jpg",
+    "category": "Photo quiz"
+  },
+  {
+    "id": "38",
+    "title": "38",
+    "question": "Name the festival in the photo. ",
+    "description": "",
+    "image": "quiz_3.jpg",
+    "category": "Photo quiz"
+  },
+  {
+    "id": "39",
+    "title": "39",
+    "question": "Name the festival in the photo. ",
+    "description": "",
+    "image": "quiz_4.jpg",
+    "category": "Photo quiz"
+  },
+  {
+    "id": "40",
+    "title": "40",
+    "question": "Name the festival in the photo. ",
+    "description": "",
+    "image": "quiz_5.jpg",
+    "category": "Photo quiz"
+  },
+  {
+    "id": "41",
+    "title": "41",
+    "question": "Where's the museum? To see the Rosetta Stone, which enabled modern understanding of Egyptian hieroglyphs, you'd visit...",
+    "description": "",
+    "image": "quiz_6.jpg",
+    "category": "Photo quiz"
+  },
+  {
+    "id": "42",
+    "title": "42",
+    "question": "Where's the museum? To see Grant Wood's famous painting \"American Gothic,\" you'd visit...",
+    "description": "",
+    "image": "quiz_7.jpg",
+    "category": "Photo quiz"
+  },
+  {
+    "id": "43",
+    "title": "43",
+    "question": "Where's the museum? If you wanted a dazzling, up-close view of Vincent van Gogh's \"The Starry Night,\" you'd visit...",
+    "description": "",
+    "image": "quiz_8.jpg",
+    "category": "Photo quiz"
+  },
+  {
+    "id": "44",
+    "title": "44",
+    "question": "Where's the museum? In this 1903 photo, the Wright Brothers fly for the first time at Kitty Hawk, N.C. To see this plane today, you'd visit...",
+    "description": "",
+    "image": "quiz_9.jpg",
+    "category": "Photo quiz"
   }
 ]

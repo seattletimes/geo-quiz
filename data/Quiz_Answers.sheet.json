@@ -838,5 +838,221 @@
     "title": "35",
     "answer": "Georgia",
     "correct": ""
+  },
+  {
+    "id": "36",
+    "title": "36",
+    "answer": "Folklife, Seattle",
+    "correct": ""
+  },
+  {
+    "id": "36",
+    "title": "36",
+    "answer": "Tiger Fest, San Diego Zoo",
+    "correct": ""
+  },
+  {
+    "id": "36",
+    "title": "36",
+    "answer": "Carnival, Rio de Janeiro",
+    "correct": "x"
+  },
+  {
+    "id": "36",
+    "title": "36",
+    "answer": "Macy’s Thanksgiving Day Parade, New York City",
+    "correct": ""
+  },
+  {
+    "id": "37",
+    "title": "37",
+    "answer": "Fright Night, Phoenix",
+    "correct": ""
+  },
+  {
+    "id": "37",
+    "title": "37",
+    "answer": "Day of the Dead, Mexico City",
+    "correct": "x"
+  },
+  {
+    "id": "37",
+    "title": "37",
+    "answer": "In the Pink Festival, Havana",
+    "correct": ""
+  },
+  {
+    "id": "37",
+    "title": "37",
+    "answer": "Zombie Daze, Cleveland",
+    "correct": ""
+  },
+  {
+    "id": "38",
+    "title": "38",
+    "answer": "Grand Fire Festival, Nachi Katsuura, Japan",
+    "correct": "x"
+  },
+  {
+    "id": "38",
+    "title": "38",
+    "answer": "Burning of Regrets, Mumbai",
+    "correct": ""
+  },
+  {
+    "id": "38",
+    "title": "38",
+    "answer": "Veneration of Our Glorious Leader, Pyongyang",
+    "correct": ""
+  },
+  {
+    "id": "38",
+    "title": "38",
+    "answer": "Blaze of Glory, San Francisco",
+    "correct": ""
+  },
+  {
+    "id": "39",
+    "title": "39",
+    "answer": "Acropolis Day, Athens",
+    "correct": ""
+  },
+  {
+    "id": "39",
+    "title": "39",
+    "answer": "Silly Hats Fest, Liverpool",
+    "correct": ""
+  },
+  {
+    "id": "39",
+    "title": "39",
+    "answer": "Bastille Day Parade, Paris",
+    "correct": "x"
+  },
+  {
+    "id": "39",
+    "title": "39",
+    "answer": "Salvation Army  Founders Day, London",
+    "correct": ""
+  },
+  {
+    "id": "40",
+    "title": "40",
+    "answer": "Necklace Fest, Los Angeles",
+    "correct": ""
+  },
+  {
+    "id": "40",
+    "title": "40",
+    "answer": "Wrap Yourself in Beads Day, Eh? Winnipeg",
+    "correct": ""
+  },
+  {
+    "id": "40",
+    "title": "40",
+    "answer": "Glitter Tag, Munich",
+    "correct": ""
+  },
+  {
+    "id": "40",
+    "title": "40",
+    "answer": "Mardi Gras, New Orleans",
+    "correct": "x"
+  },
+  {
+    "id": "41",
+    "title": "41",
+    "answer": "The Prado, Madrid",
+    "correct": ""
+  },
+  {
+    "id": "41",
+    "title": "41",
+    "answer": "The Hermitage, St. Petersburg",
+    "correct": ""
+  },
+  {
+    "id": "41",
+    "title": "41",
+    "answer": "The British Museum, London",
+    "correct": "x"
+  },
+  {
+    "id": "41",
+    "title": "41",
+    "answer": "Museum of Egyptian Antiquities, Cairo",
+    "correct": ""
+  },
+  {
+    "id": "42",
+    "title": "42",
+    "answer": "National Gallery of Art, Washington, D.C.",
+    "correct": ""
+  },
+  {
+    "id": "42",
+    "title": "42",
+    "answer": "Art Institute of Chicago",
+    "correct": ""
+  },
+  {
+    "id": "42",
+    "title": "42",
+    "answer": "Museum of Fine Art, Boston",
+    "correct": ""
+  },
+  {
+    "id": "42",
+    "title": "42",
+    "answer": "Des Moines Art Center, Des Moines, Iowa",
+    "correct": "x"
+  },
+  {
+    "id": "43",
+    "title": "43",
+    "answer": "The Louvre, Paris",
+    "correct": ""
+  },
+  {
+    "id": "43",
+    "title": "43",
+    "answer": "The National Gallery, London",
+    "correct": "x"
+  },
+  {
+    "id": "43",
+    "title": "43",
+    "answer": "Van Gogh Museum, Amsterdam",
+    "correct": ""
+  },
+  {
+    "id": "43",
+    "title": "43",
+    "answer": "Museum of Modern Art, New York City",
+    "correct": ""
+  },
+  {
+    "id": "44",
+    "title": "44",
+    "answer": "Smithsonian National Air and Space Museum, Washington, D.C.",
+    "correct": "x"
+  },
+  {
+    "id": "44",
+    "title": "44",
+    "answer": "Museum of Flight, Seattle",
+    "correct": ""
+  },
+  {
+    "id": "44",
+    "title": "44",
+    "answer": "North Carolina Museum of History, Raleigh",
+    "correct": ""
+  },
+  {
+    "id": "44",
+    "title": "44",
+    "answer": "Ripley’s Believe It or Not! Atlantic City",
+    "correct": ""
   }
 ]
