@@ -40,6 +40,14 @@
     "category": "In our corner of the continent"
   },
   {
+    "id": "36",
+    "title": "36",
+    "question": "Name the festival in the photo. ",
+    "description": "",
+    "image": "quiz_1.jpg",
+    "category": "Photo quiz"
+  },
+  {
     "id": "6",
     "title": "6",
     "question": "What is the oldest incorporated city in Washington?",
@@ -80,6 +88,14 @@
     "category": "In our corner of the continent"
   },
   {
+    "id": "37",
+    "title": "37",
+    "question": "Name the festival in the photo. ",
+    "description": "",
+    "image": "quiz_2.jpg",
+    "category": "Photo quiz"
+  },
+  {
     "id": "11",
     "title": "11",
     "question": "Which slogan appears on South Dakota’s auto-license plate?",
@@ -96,6 +112,14 @@
     "category": "Artistic license"
   },
   {
+    "id": "41",
+    "title": "41",
+    "question": "Where's the museum? To see the Rosetta Stone, which enabled modern understanding of Egyptian hieroglyphs, you'd visit...",
+    "description": "",
+    "image": "quiz_6.jpg",
+    "category": "Photo quiz"
+  },
+  {
     "id": "13",
     "title": "13",
     "question": "Which slogan appears on New Hampshire’s auto-license plate?",
@@ -110,6 +134,14 @@
     "description": "Since the 1950s, Alabama law has required “Heart of Dixie” on standard-issue plates, though the slogan has come under criticism and is in tiny type on current plates.",
     "image": "",
     "category": "Artistic license"
+  },
+  {
+    "id": "39",
+    "title": "39",
+    "question": "Name the festival in the photo. ",
+    "description": "",
+    "image": "quiz_4.jpg",
+    "category": "Photo quiz"
   },
   {
     "id": "15",
@@ -134,6 +166,14 @@
     "description": "The 605-mile Ouachita (“WAH-shi-tah”) River flows through Arkansas and Louisiana.",
     "image": "",
     "category": "Water, water everywhere"
+  },
+  {
+    "id": "38",
+    "title": "38",
+    "question": "Name the festival in the photo. ",
+    "description": "",
+    "image": "quiz_3.jpg",
+    "category": "Photo quiz"
   },
   {
     "id": "18",
@@ -192,6 +232,14 @@
     "category": "The Seven Continents"
   },
   {
+    "id": "43",
+    "title": "43",
+    "question": "Where's the museum? If you wanted a dazzling, up-close view of Vincent van Gogh's \"The Starry Night,\" you'd visit...",
+    "description": "",
+    "image": "quiz_8.jpg",
+    "category": "Photo quiz"
+  },
+  {
     "id": "25",
     "title": "25",
     "question": "If a ZiL limousine drives by with a borzoi hanging its head out the window, and you’re in the nation where both the make of car and dog breed originated, you’re in:",
@@ -216,6 +264,14 @@
     "category": "Going to the dogs"
   },
   {
+    "id": "42",
+    "title": "42",
+    "question": "Where's the museum? To see Grant Wood's famous painting \"American Gothic,\" you'd visit...",
+    "description": "",
+    "image": "quiz_7.jpg",
+    "category": "Photo quiz"
+  },
+  {
     "id": "28",
     "title": "28",
     "question": "Lake _______ is created by _______ Dam.",
@@ -238,6 +294,14 @@
     "description": "",
     "image": "",
     "category": "Oh, dam"
+  },
+  {
+    "id": "40",
+    "title": "40",
+    "question": "Name the festival in the photo. ",
+    "description": "",
+    "image": "quiz_5.jpg",
+    "category": "Photo quiz"
   },
   {
     "id": "31",
@@ -278,70 +342,6 @@
     "description": "",
     "image": "",
     "category": "As seen in NWTraveler"
-  },
-  {
-    "id": "36",
-    "title": "36",
-    "question": "Name the festival in the photo. ",
-    "description": "",
-    "image": "quiz_1.jpg",
-    "category": "Photo quiz"
-  },
-  {
-    "id": "37",
-    "title": "37",
-    "question": "Name the festival in the photo. ",
-    "description": "",
-    "image": "quiz_2.jpg",
-    "category": "Photo quiz"
-  },
-  {
-    "id": "38",
-    "title": "38",
-    "question": "Name the festival in the photo. ",
-    "description": "",
-    "image": "quiz_3.jpg",
-    "category": "Photo quiz"
-  },
-  {
-    "id": "39",
-    "title": "39",
-    "question": "Name the festival in the photo. ",
-    "description": "",
-    "image": "quiz_4.jpg",
-    "category": "Photo quiz"
-  },
-  {
-    "id": "40",
-    "title": "40",
-    "question": "Name the festival in the photo. ",
-    "description": "",
-    "image": "quiz_5.jpg",
-    "category": "Photo quiz"
-  },
-  {
-    "id": "41",
-    "title": "41",
-    "question": "Where's the museum? To see the Rosetta Stone, which enabled modern understanding of Egyptian hieroglyphs, you'd visit...",
-    "description": "",
-    "image": "quiz_6.jpg",
-    "category": "Photo quiz"
-  },
-  {
-    "id": "42",
-    "title": "42",
-    "question": "Where's the museum? To see Grant Wood's famous painting \"American Gothic,\" you'd visit...",
-    "description": "",
-    "image": "quiz_7.jpg",
-    "category": "Photo quiz"
-  },
-  {
-    "id": "43",
-    "title": "43",
-    "question": "Where's the museum? If you wanted a dazzling, up-close view of Vincent van Gogh's \"The Starry Night,\" you'd visit...",
-    "description": "",
-    "image": "quiz_8.jpg",
-    "category": "Photo quiz"
   },
   {
     "id": "44",

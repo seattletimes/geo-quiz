@@ -890,7 +890,7 @@
   {
     "id": "38",
     "title": "38",
-    "answer": "Grand Fire Festival, Nachi Katsuura, Japan",
+    "answer": "Grand Fire Festival, Nachi-Katsuura, Japan",
     "correct": "x"
   },
   {
@@ -993,7 +993,7 @@
     "id": "42",
     "title": "42",
     "answer": "Art Institute of Chicago",
-    "correct": ""
+    "correct": "x"
   },
   {
     "id": "42",
@@ -1005,7 +1005,7 @@
     "id": "42",
     "title": "42",
     "answer": "Des Moines Art Center, Des Moines, Iowa",
-    "correct": "x"
+    "correct": ""
   },
   {
     "id": "43",
@@ -1017,7 +1017,7 @@
     "id": "43",
     "title": "43",
     "answer": "The National Gallery, London",
-    "correct": "x"
+    "correct": ""
   },
   {
     "id": "43",
@@ -1029,7 +1029,7 @@
     "id": "43",
     "title": "43",
     "answer": "Museum of Modern Art, New York City",
-    "correct": ""
+    "correct": "x"
   },
   {
     "id": "44",
