@@ -10,40 +10,40 @@
     <%= t.include("partials/_adHead.html") %>
   </head>
   <body>
+    <responsive-child>
+      <div class="outer">
 
-    <div class="outer">
 
+        <div class="quiz-container">
 
-      <div class="quiz-container">
+          <div class="divider"></div>
 
-        <div class="divider"></div>
+          <div class="quiz-box"> 
 
-        <div class="quiz-box"> 
+            <!-- START OF QUIZ -->
+            <div class="question-box"></div>
 
-          <!-- START OF QUIZ -->
-          <div class="question-box"></div>
+          </div>
+
+          <div class="divider"></div>
+
+          <div class="credits">
+
+            Quiz by <span class="credit-name">Brian Cantwell</span> 
+
+            &bull; 
+
+            Production by <span class="credit-name">Paige Collins</span>
+
+          </div>
+
+          <div class="sources">
+            Sources, unless otherwise noted: <span class="credit-name">Washington Atlas &amp; Gazetteer, Oxford Atlas of the World, U.S. Census</span>
+          </div>
 
         </div>
-
-        <div class="divider"></div>
-
-        <div class="credits">
-
-          Quiz by <span class="credit-name">Brian Cantwell</span> 
-
-          &bull; 
-
-          Production by <span class="credit-name">Paige Collins</span>
-
-        </div>
-
-        <div class="sources">
-          Sources, unless otherwise noted: <span class="credit-name">Washington Atlas &amp; Gazetteer, Oxford Atlas of the World, U.S. Census</span>
-        </div>
-
       </div>
-    </div>
-
+    </responsive-child>
 
 
     <script>

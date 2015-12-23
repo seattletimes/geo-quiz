@@ -1,3 +1,5 @@
+require("component-responsive-frame/child");
+
 var track = require("./lib/tracking");
 var $ = require("jquery");
 var ich = require("icanhaz");
